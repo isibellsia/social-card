@@ -21,7 +21,7 @@ const SocialCard = () => {
             target="_blank"
             rel="noreferrer"
           >
-            Linked In
+            LinkedIn
           </a>
           <a
             href="https://github.com/isibellsia"
