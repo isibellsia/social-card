@@ -32,7 +32,8 @@ const SocialCard = () => {
           </a>
           <a
             href="../assets/Izabel_Usheva_Resume.pdf"
-            download={"Izabel_Usheva_Resume"}
+            target="_blank"
+            rel="noreferrer"
           >
             Download Resume
           </a>
