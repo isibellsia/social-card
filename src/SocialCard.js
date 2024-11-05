@@ -30,7 +30,12 @@ const SocialCard = () => {
           >
             Github
           </a>
-          <a href="/">Resume</a>
+          <a
+            href="../assets/Izabel_Usheva_Resume.pdf"
+            download={"Izabel_Usheva_Resume"}
+          >
+            Download Resume
+          </a>
         </div>
       </div>
     </main>
@@ -38,4 +43,3 @@ const SocialCard = () => {
 };
 
 export default SocialCard;
-
